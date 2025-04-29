@@ -1,20 +1,13 @@
-Student Management System:-
-A simple console-based Student Management System built in Java that allows you to perform CRUD operations on student data.
+# Student Management System (Java Console App)
 
-Features:-
+A simple console-based project in Java that lets you Add, View, Search, and Delete student records. Great for beginners to practice Java OOP and CRUD operations.
 
-Add Student: Allows the user to input student details such as ID, name, age, and course.
+##  Features
 
-View Students: Displays the list of all students.
+- Add Student – Enter ID, name, age, and course of a student.
+- View Students – Show the list of all added students.
+- Search Student by ID – Find a student using their unique ID.
+- Delete Student by ID – Remove a student using their unique ID.
+- Exit – Close the program.
 
-Search Student by ID: Finds a student based on their unique ID.
 
-Delete Student by ID: Deletes a student based on their unique ID.
-
-Project Structure:-
-
-Student: Represents a student with attributes such as ID, name, age, and course.
-
-StudentService: Contains methods to manage student records, including add, view, search, and delete operations.
-
-StudentManagement: The main class that runs the console-based application and handles user input.
